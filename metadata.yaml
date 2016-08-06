@@ -1,0 +1,37 @@
+_repo: Stories-of-Great-Americans-for-Little-Americans_10070
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eggleston, Edward
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '3293'
+    url: http://www.gutenberg.org/2009/agents/3293
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Eggleston
+description: America's heroes come to life for children, thanks to this classical
+  stories by Edward Eggleston. The book captures America's heritage in the best way
+  possible for children, with imaginative stories about great Americans. Stories written
+  at a time when Americans wanted their children to be proud of their country, stories
+  that bring the people and the times to life. The several chapters of the book include
+  stories about war heroes, statesmen, explorers, inventors, writers, artists, scientists
+  and just plain ordinary people who made a difference. The stories are about the
+  great American men and women like , Daniel Boone, Francis Scott Key, George Washington,
+  Eliza Lucas, Marquette, Benjamin West, George Rogers Clark, Daniel Webster, William
+  Penn, Louisa May Alcott, Charles Goodyear, Kit Carson, Thomas Jefferson, Benezet,
+  Robert Fulton, Henry Wadsworth Longfellow, Thomas Smith, Horace Greeley, Lewis and
+  Clark, General Marion, Benjamin Franklin and many more.
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10070'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'United States -- Biography -- Juvenile literature'
+- GITenberg
+title: Stories of Great Americans for Little Americans
+url: http://www.gutenberg.org/ebooks/10070
